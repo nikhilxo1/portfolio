@@ -1,0 +1,181 @@
+
+body{
+    margin: 0;
+    color: #40514E;
+    background-color: #eaf6f6;
+     
+
+}
+.top_container{
+    text-align: center;
+    margin: 20rem; ;
+    font-size: 20px;    
+ 
+}   
+.name{
+    font-family:'Lobster', cursive;
+    color: #40514E;
+}
+.proffesion{
+    font-weight: bold;
+    text-transform: capitalize;
+    line-height: 2;
+}
+.dev{
+    color: magenta;
+}
+.oper{
+    color: darkviolet;
+}
+.for{
+    color: yellow;
+}
+#profile_image{
+    width: 200px;
+    height: 200px;
+    padding-bottom: 30px;
+    margin-top: 20px
+
+}
+.intro{
+    width:30% ;
+    margin: auto;
+}
+p{
+   line-height: 2;
+} 
+.middle-container{
+    margin: 100px 0;
+}  
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+div{
+  text-align: center;
+}
+h2{
+    color: #66bfbf;
+}
+.computer_image{
+width: 25%;
+float: left;
+padding: 30px;
+
+
+}
+.skils{
+    width: 25%;
+    float: right;
+    padding: 30px;
+      
+}
+.specialization{
+ 
+    color: #66bfbf;
+    
+}
+td{
+    color: #365555;
+    font-weight: bold;
+
+}
+.skills{
+    width: 50%;
+    margin:100px auto 100px auto;
+    
+}
+
+.skill-row{
+    text-align: left;
+    line-height: 2;
+    
+}
+hr{
+    border: dotted #4c5353 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+.contat_info{
+    position: absolute;
+    left: 50px;
+
+}
+.personal_info{
+    position: absolute;
+    right: 50px;
+    padding: 10px 20px 10px 20px;
+    
+  
+
+}
+.button{
+    background: #e575eb;
+    background-image:-webkit-linear-gradient(top, #e575eb, #32edce);
+    background-image:-moz-linear-gradient(top, #e575eb, #32edce);
+    background-image:-ms-linear-gradient(top, #e575eb, #32edce);
+    background-image:-o-linear-gradient(top, #e575eb, #32edce);
+    background-image:linear-gradient(to bottom, #e575eb, #32edce);
+    -webkit-border-radius:8;
+    -moz-border-radius:8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    
+  }
+  .contacts{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.button_contact{
+    margin:40px auto 60px;
+} 
+em{
+    font-family:'Lobster', cursive; 
+    font-size: 1rem;
+    line-height: 0%;
+    text-transform: capitalize;
+    text-shadow: #40514E;
+    color: #687474;
+}
+.names{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #687270;
+}
+a{
+    color: dodgerblue;
+    text-transform: uppercase;
+    padding: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(236, 248, 248);
+}  
+
+h3{
+    color: #66bfbf;
+    font-style: italic;
+    
+    
+}
+.nk{
+
+    float: right;
+}
+.no{
+    float: right;
+}
+.add{
+    float: right;
+}
+#cartoon_img{
+    width: 45%;
+    float: left;
+    margin-top: 0px;
+}
